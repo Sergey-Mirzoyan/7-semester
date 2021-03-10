@@ -1,0 +1,16 @@
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\1.txt
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\12.txt
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\123.txt
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\RandomAnalyzer.dll
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\bin\Debug\RandomAnalyzer.pdb
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.fmLab1.resources
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.csproj.CopyComplete
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\lab1\obj\Debug\lab1.pdb

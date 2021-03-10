@@ -1,0 +1,39 @@
+stages:
+  - unittest
+
+  - integrate
+
+  - e2e
+
+
+image: wildfish/django
+
+before_script:
+  - export PYTHONPATH="$PYTHONPATH:."
+  - python -c "import sys;print(sys.path)"
+  - pip3 install --upgrade pip
+  - pip3 install -r requirements.txt
+  - python3 manage.py makemigrations
+  - python3 manage.py migrate
+
+Intertesting:
+  stage: integrate
+  tags:
+    - docker
+  script:
+    - python3 manage.py test catalog.tests.integrate
+
+Unittesting:
+  stage: unittest
+  tags:
+    - docker
+
+  script:
+    - python3 manage.py test catalog.tests.unittests
+
+e2etesting:
+  stage: e2e
+  tags:
+    - docker
+  script:
+    - python3 manage.py test catalog.tests.e2e

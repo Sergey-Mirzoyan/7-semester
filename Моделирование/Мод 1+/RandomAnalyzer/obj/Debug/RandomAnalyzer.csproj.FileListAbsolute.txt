@@ -1,0 +1,6 @@
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\RandomAnalyzer\bin\Debug\RandomAnalyzer.dll
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\RandomAnalyzer\bin\Debug\RandomAnalyzer.pdb
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\RandomAnalyzer\obj\Debug\RandomAnalyzer.csprojAssemblyReference.cache
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\RandomAnalyzer\obj\Debug\RandomAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\RandomAnalyzer\obj\Debug\RandomAnalyzer.dll
+C:\Users\serge\Desktop\University\Sem7\[М] лабы\by stolyarenko\lab1\RandomAnalyzer\obj\Debug\RandomAnalyzer.pdb
